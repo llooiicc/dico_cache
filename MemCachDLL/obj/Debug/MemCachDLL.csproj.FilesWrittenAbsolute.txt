@@ -1,0 +1,5 @@
+/home/loic/RiderProjects/ProjectCSharp/MemCachDLL/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/loic/RiderProjects/ProjectCSharp/MemCachDLL/bin/Debug/MemCachDLL.dll.mdb
+/home/loic/RiderProjects/ProjectCSharp/MemCachDLL/bin/Debug/MemCachDLL.dll
+/home/loic/RiderProjects/ProjectCSharp/MemCachDLL/obj/Debug/MemCachDLL.dll
+/home/loic/RiderProjects/ProjectCSharp/MemCachDLL/obj/Debug/MemCachDLL.dll.mdb
